@@ -1,0 +1,23 @@
+{
+    "name": "blog_it",
+    "version": "1.0.0",
+    "description": "This blog is a place to share and learn knowledge of information technology",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon --inspect src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VNKaiSer/BlogIT.git"
+    },
+    "author": "VNKaiser",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/VNKaiSer/BlogIT/issues"
+    },
+    "homepage": "https://github.com/VNKaiSer/BlogIT#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
